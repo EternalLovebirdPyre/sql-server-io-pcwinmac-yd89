@@ -1,4 +1,4 @@
-# 
+# نهائي SQL Server Management Studio امتدادات لـ Mac OS | ذكي SQL Server Management Studio امتدادات لـ PC Windows. مع مستكشف الملفات و سوق الإضافات — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
